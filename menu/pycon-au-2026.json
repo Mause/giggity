@@ -1,0 +1,28 @@
+{
+	"version": 2026021301,
+	"url": "https://pretalx.com/pycon-au-2026/schedule/export/schedule.xml",
+	"title": "PyCon AU 2026",
+	"start": "2026-08-26",
+	"end": "2026-08-30",
+	"timezone": "Australia/Brisbane",
+	"metadata": {
+		"links": [
+			{
+				"url": "https://2026.pycon.org.au/",
+				"title": "Website"
+			},
+			{
+				"url": "https://2026.pycon.org.au/about/culture-and-community/",
+				"title": "Culture and Community"
+			},
+			{
+				"url": "https://2026.pycon.org.au/attend/transport/",
+				"title": "Getting around"
+			},
+			{
+				"url": "https://2026.pycon.org.au/conduct/",
+				"title": "Safety & Conduct"
+			}
+		]
+	}
+}
